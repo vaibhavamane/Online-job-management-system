@@ -6,8 +6,8 @@ Live: [Demo](https://django-portal.herokuapp.com/)
 
 Used Tech Stack
 
-1. Django
-2. Sqlite
+1. Django.
+2. Sqlite.
 
 ### Screenshots
 
